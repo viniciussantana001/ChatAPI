@@ -15,7 +15,7 @@ pip install "fastapi[standard]"
 
 ## Como Usar  
 
-### Criar e ativar um ambiente virtual (opcional)  
+### Criar e ativar um ambiente virtual 
 ```sh
 python -m venv venv  
 venv\Scripts\activate  # Windows  
